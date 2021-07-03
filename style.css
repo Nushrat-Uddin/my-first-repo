@@ -1,0 +1,11 @@
+.header{
+    background-color: bisque;
+    color:darkblue;
+    text-align: center;
+    height: 150px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    background-color: darkgoldenrod;
+}
